@@ -1,0 +1,18 @@
+h1 {color:red; text-align: center; font-size: 30pt;}
+nav ul li {display: inline-block; padding: 5mm 5mm 5mm 5mm;}
+a {color: greenyellow;}
+nav {text-align: center;}
+header {background-color: green;}
+h3 {color:blue; font-size: 26pt; }
+img {width:15cm; height: 15cm; margin-left: auto;margin-right: auto;display: block; padding: 5mm 5mm 5mm 5mm;}
+p {font-size: 24pt;}
+footer {background-color: aqua;}
+footer p {text-align: center; color: black;}
+.imgf {height: 1.5cm;width: 1.5cm;display: inline-block; padding: 10mm 30mm 0mm 10mm;}
+ol {font-size: 24pt;}
+
+
+
+
+
+
